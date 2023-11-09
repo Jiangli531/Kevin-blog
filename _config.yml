@@ -20,10 +20,10 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
+      value: jiangli31@buaa.edu.cn
+      link: jiangli31@buaa.edu.cn
     - name: WeChat
-      value: YourWeChatUsername
+      value: This is a secret!
       link: "#"
   follow:
     - name: Twitter

@@ -10,5 +10,5 @@ profile_picture:
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  这是Kevin Lee个人网站，刚做的 哈哈</a>.
 </p>
