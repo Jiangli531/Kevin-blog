@@ -44,7 +44,8 @@ jobs:
         gem 'jekyll', '~> 3.8.6'
         gem 'listen', '~> 3.7'
     - name: Install dependencies
-      run: bundle install
+      run: 
+        bundle install
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
